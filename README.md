@@ -14,19 +14,19 @@ Modifier    | Class | Package | Subclass | World
 
 ————————————+———————+—————————+——————————+———————
 
-public      |  y    |    y    |    y     |   y
+public      |    y    |     y    |      y     |     y
 
 ————————————+———————+—————————+——————————+———————
 
-protected   |  y    |    y    |    y     |   n
+protected   |     y    |      y    |      y     |     n
 
 ————————————+———————+—————————+——————————+———————
 
-no modifier |  y    |    y    |    n     |   n    **also known as package-private**
+no modifier |     y    |      y    |      n     |     n    **also known as package-private**
 
 ————————————+———————+—————————+——————————+———————
 
-private     |  y    |    n    |    n     |   n
+private     |     y    |      n    |      n     |     n
 
 
 
