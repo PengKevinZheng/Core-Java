@@ -12,7 +12,7 @@ If a field is declared private, it cannot be accessed by anyone outside the clas
 
 Modifier    | Class | Package | Subclass | World
 
-————————————+———————+—————————+——————————+———————
+
 
 public      |    y    |     y    |      y     |     y
 
