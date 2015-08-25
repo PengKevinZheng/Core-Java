@@ -111,6 +111,16 @@ It is also known as Runtime polymorphism.
 
 7) If a class extends an abstract class or interface it has to provide implementation to all its abstract method to be a concrete class. alternatively this class can also be abstract.
 
+Difference between abstract class and Interface:
+
+Abstract class 	        Interface 
+Partial implementation 	No implementation 
+Single inheritance 	    Multiple inheritance 
+ANY methods 	        [public abstract] methods (default to be) 
+ANYfileds 	            [public static final] fields (default to be) 
+Better performance 	    Lazy-loading 
+
+
 
 
 
