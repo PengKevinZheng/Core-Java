@@ -4,7 +4,7 @@ OOP
 
 OOP properties: 
 
-    1.encapsulation
+1.encapsulation
 
         Encapsulation is the technique of making the fields in a class private and providing access to the fields via public         methods. 
 
