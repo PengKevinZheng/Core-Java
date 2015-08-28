@@ -4,35 +4,35 @@ OOP
 
 OOP properties: 
 
-1. encapsulation
+    1.encapsulation
 
-Encapsulation is the technique of making the fields in a class private and providing access to the fields via public methods. 
+        Encapsulation is the technique of making the fields in a class private and providing access to the fields via public         methods. 
 
-If a field is declared private, it cannot be accessed by anyone outside the class, thereby hiding the fields within the class.
+        If a field is declared private, it cannot be accessed by anyone outside the class, thereby hiding the fields within         the     class.
 
-Modifier    | Class | Package | Subclass | World
-
-
-
-public      |    y    |     y    |      y     |     y
+        Modifier    | Class | Package | Subclass | World
 
 
 
-protected   |     y    |      y    |      y     |     n
+    public      |    y    |     y    |      y     |     y
 
 
 
-no modifier |     y    |      y    |      n     |     n    **also known as package-private**
+    protected   |     y    |      y    |      y     |     n
 
 
 
-private     |     y    |      n    |      n     |     n
+    no modifier |     y    |      y    |      n     |     n    **also known as package-private**
 
 
 
-2. inheritance
+    private     |     y    |      n    |      n     |     n
 
-Java Inheritance defines an is-a relationship between a superclass and its subclasses. This means that an object of a subclass can be used wherever an object of the superclass can be used. Class Inheritance in java mechanism is used to build new classes from existing classes. The inheritance relationship is transitive: if class x extends class y, then a class z, which extends class x, will also inherit from class y. 
+
+
+2.inheritance
+
+    Java Inheritance defines an is-a relationship between a superclass and its subclasses. This means that an object of a        subclass can be used wherever an object of the superclass can be used. Class Inheritance in java mechanism is used to        build new classes from existing classes. The inheritance relationship is transitive: if class x extends class y, then         a      class z, which extends class x, will also inherit from class y. 
 
 
 3. polymorohism
